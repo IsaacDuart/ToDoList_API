@@ -1,7 +1,6 @@
 using System.Threading.Channels;
 using AutoMapper;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.Build.Framework;
 using Microsoft.Extensions.Logging;
 using ToDoList.Application.DTO.CreateDTOs;
 using ToDoList.Application.DTO.EntitiesDTOs;
@@ -30,9 +29,6 @@ public class UserService : IUserService
 
     public async Task<UserDTO> Create(UserCreateDTO userCreateDto)
     {
-        var userExists = _userRepository.GetByEmail(userCreateDto.Email);
-        
-        if (userExists != null) throw new DomainException("Email already exists");
         
         var user = _mapper.Map<User>(userCreateDto);
         
@@ -47,9 +43,6 @@ public class UserService : IUserService
 
     public async Task<UserDTO> Update(UserUpdateDTO userUpdateDto)
     {
-        var userExists = _userRepository.GetByEmail(userUpdateDto.Email);
-        
-        if (userExists == null) throw new DomainException("User not found");
         
         var user = _mapper.Map<User>(userUpdateDto);
         user.Password = _passwordHasher.HashPassword(user, user.Password);

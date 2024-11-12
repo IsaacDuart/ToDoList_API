@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/ToDoList.Domain.csproj",
+      "projectUniqueName": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Domain/ToDoList.Domain.csproj",
       "projectName": "ToDoList.Domain",
-      "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/ToDoList.Domain.csproj",
+      "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Domain/ToDoList.Domain.csproj",
       "packagesPath": "/home/isaacduarte/.nuget/packages/",
-      "outputPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/",
+      "outputPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/isaacduarte/.nuget/NuGet/NuGet.Config"

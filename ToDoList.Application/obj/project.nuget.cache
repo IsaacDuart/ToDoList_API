@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "do3kwNAWBQE=",
+  "dgSpecHash": "NEerUElKAPY=",
   "success": true,
-  "projectFilePath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/ToDoList.Application.csproj",
+  "projectFilePath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Application/ToDoList.Application.csproj",
   "expectedPackageFiles": [
     "/home/isaacduarte/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/home/isaacduarte/.nuget/packages/fluentvalidation/11.10.0/fluentvalidation.11.10.0.nupkg.sha512",

@@ -612,11 +612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/ToDoList.Application.csproj",
+      "projectUniqueName": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Application/ToDoList.Application.csproj",
       "projectName": "ToDoList.Application",
-      "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/ToDoList.Application.csproj",
+      "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Application/ToDoList.Application.csproj",
       "packagesPath": "/home/isaacduarte/.nuget/packages/",
-      "outputPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/",
+      "outputPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
@@ -631,8 +631,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/ToDoList.Domain.csproj": {
-              "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/ToDoList.Domain.csproj"
+            "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Domain/ToDoList.Domain.csproj": {
+              "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Domain/ToDoList.Domain.csproj"
             }
           }
         }

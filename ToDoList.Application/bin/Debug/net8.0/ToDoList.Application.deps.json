@@ -11,8 +11,7 @@
           "AutoMapper": "13.0.1",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "7.0.20",
-          "ToDoList.Domain": "1.0.0",
-          "Microsoft.Build.Framework": "15.1.0.0"
+          "ToDoList.Domain": "1.0.0"
         },
         "runtime": {
           "ToDoList.Application.dll": {}
@@ -156,14 +155,6 @@
         "runtime": {
           "ToDoList.Domain.dll": {}
         }
-      },
-      "Microsoft.Build.Framework/15.1.0.0": {
-        "runtime": {
-          "Microsoft.Build.Framework.dll": {
-            "assemblyVersion": "15.1.0.0",
-            "fileVersion": "17.8.3.51904"
-          }
-        }
       }
     }
   },
@@ -280,11 +271,6 @@
     },
     "ToDoList.Domain/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Build.Framework/15.1.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

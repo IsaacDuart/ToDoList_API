@@ -12276,11 +12276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.API/ToDoList.API.csproj",
+      "projectUniqueName": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.API/ToDoList.API.csproj",
       "projectName": "ToDoList.API",
-      "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.API/ToDoList.API.csproj",
+      "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.API/ToDoList.API.csproj",
       "packagesPath": "/home/isaacduarte/.nuget/packages/",
-      "outputPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.API/obj/",
+      "outputPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
@@ -12295,14 +12295,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/ToDoList.Application.csproj": {
-              "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/ToDoList.Application.csproj"
+            "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Application/ToDoList.Application.csproj": {
+              "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Application/ToDoList.Application.csproj"
             },
-            "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/ToDoList.Domain.csproj": {
-              "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/ToDoList.Domain.csproj"
+            "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Domain/ToDoList.Domain.csproj": {
+              "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Domain/ToDoList.Domain.csproj"
             },
-            "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Infra/ToDoList.Infra.csproj": {
-              "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Infra/ToDoList.Infra.csproj"
+            "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Infra/ToDoList.Infra.csproj": {
+              "projectPath": "/home/isaacduarte/Área de Trabalho/ToDoLIST/ToDoList.Infra/ToDoList.Infra.csproj"
             }
           }
         }
