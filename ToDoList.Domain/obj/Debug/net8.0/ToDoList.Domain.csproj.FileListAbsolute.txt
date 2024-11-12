@@ -1,0 +1,25 @@
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.deps.json
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.dll
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.pdb
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.csproj.AssemblyReference.cache
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.AssemblyInfoInputs.cache
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.AssemblyInfo.cs
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.csproj.CoreCompileInputs.cache
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.dll
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/refint/ToDoList.Domain.dll
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.pdb
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Domain/obj/Debug/net8.0/ref/ToDoList.Domain.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.deps.json
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/bin/Debug/net8.0/ToDoList.Domain.pdb
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.csproj.AssemblyReference.cache
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.AssemblyInfoInputs.cache
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.AssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.csproj.CoreCompileInputs.cache
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.sourcelink.json
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/refint/ToDoList.Domain.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ToDoList.Domain.pdb
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Domain/obj/Debug/net8.0/ref/ToDoList.Domain.dll

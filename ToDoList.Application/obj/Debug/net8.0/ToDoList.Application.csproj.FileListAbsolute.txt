@@ -1,0 +1,33 @@
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/bin/Debug/net8.0/ToDoList.Application.deps.json
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/bin/Debug/net8.0/ToDoList.Application.dll
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/bin/Debug/net8.0/ToDoList.Application.pdb
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/bin/Debug/net8.0/ToDoList.Domain.dll
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/bin/Debug/net8.0/ToDoList.Domain.pdb
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.csproj.AssemblyReference.cache
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.AssemblyInfoInputs.cache
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.AssemblyInfo.cs
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.csproj.CoreCompileInputs.cache
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ToDoList.ED2F2C6F.Up2Date
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.dll
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/refint/ToDoList.Application.dll
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.pdb
+/home/isaacduarte/RiderProjects/ToDoListAPI/ToDoList.Application/obj/Debug/net8.0/ref/ToDoList.Application.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/bin/Debug/net8.0/ToDoList.Application.deps.json
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/bin/Debug/net8.0/ToDoList.Application.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/bin/Debug/net8.0/ToDoList.Application.pdb
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/bin/Debug/net8.0/ToDoList.Domain.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/bin/Debug/net8.0/ToDoList.Domain.pdb
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.csproj.AssemblyReference.cache
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.AssemblyInfoInputs.cache
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.AssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.csproj.CoreCompileInputs.cache
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.sourcelink.json
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.csproj.CopyComplete
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/refint/ToDoList.Application.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ToDoList.Application.pdb
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/obj/Debug/net8.0/ref/ToDoList.Application.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/home/isaacduarte/Área de Trabalho/ToDoListProject/secret/ToDoList.Application/bin/Debug/net8.0/Microsoft.Build.Framework.xml
